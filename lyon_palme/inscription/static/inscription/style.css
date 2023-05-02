@@ -1,0 +1,45 @@
+label
+{font-family: Helvetica;
+    font-weight: bold;
+    font-size: 25px;
+    display: block;
+    margin: 20px 33% 0;
+    color : rgb(80, 53, 130);}
+
+h1
+{font-family: Helvetica;
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+}
+
+input
+{font-family: Helvetica;
+    width : 35%;
+    font-size: 25px;
+    display: block;
+    margin: 20px 33% 0;
+    color : black;
+    border-radius: 10px;
+}
+
+#date_certificat, #date_naissance
+{font-family: Helvetica;
+    font-weight: bold;
+    display: block;
+    color : rgb(80, 53, 130);}
+
+body
+{background-color: #9dcff2;}
+
+#politiquedeconfidentialite, #promos{
+    margin: 25px 33% 0;
+    width:1%;
+    height: 25px;
+    border-radius: 5px;
+}
+
+#date_naissance, #date_certificat{
+    margin: 20px 33% 0;
+    width:20%;
+}
